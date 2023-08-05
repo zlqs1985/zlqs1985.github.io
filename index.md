@@ -4,7 +4,7 @@ layout: page
 
 ## 张 路
 
-<img src="zlqs1985.github.io/images/profile.jpg" class="floatpic" width="360" height="480">
+<img src="images/profile2.jpg" class="floatpic" width="360" height="480">
 
 #欢迎访问 **张路 ([Zhang Lu](https://caihanlin.com/file/蔡汉霖简历.pdf))的学术主页**.
 
