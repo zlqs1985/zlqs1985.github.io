@@ -11,10 +11,9 @@ layout: page
 欢迎访问 **张路 ([Zhang Lu](https://caihanlin.com/file/蔡汉霖简历.pdf))的学术主页**.
 
 <div style="text-align: justify">
-	我目前是首都经济贸易大学金融学院的副教授，博士生导师。近年来，我主要关注中国地方政府债务(Chinese Local Government Debt)的相关问题,例如：债务产生的
+	我目前是首都经济贸易大学金融学院的副教授，博士生导师。近年来，我主要关注中国地方政府债务的相关问题,例如：中国地方政府债务产生的
 制度背景，地方政府对融资平台(LGFVs)的显性支持和隐性担保，政府对地方债务治理的政策效果评估，地方债务的经济金融影响等。未来，我还希望与合作者一道，基于
-数量宏观模型(Quantitative Macroeconomic Model)和微观计量方法(Microeconometrics)，对有关中国经济的重大问题进行深入的研究。此外，我还对家庭金融，气候金融，房地产经济学和应用微观等领域保持着持续的研究兴趣。迄今为止，我已经以独立作者或第一作者身份，在包括《中国工业经济》、《财经研究》等国内外顶级刊物发表论文多
-篇，并承担一项国家自然科学基金青年项目。
+数量宏观模型和微观计量方法，对有关中国经济的重大问题进行深入的研究和政策模拟。此外，我还对家庭金融，气候金融，房地产经济学和应用微观等领域保持着持续的研究兴趣。迄今为止，我已经以独立作者或第一作者身份，在包括《中国工业经济》、《财经研究》等国内外顶级刊物发表论文多篇，并承担一项国家自然科学基金青年项目。
 </div>
 
 <br>
@@ -26,7 +25,7 @@ I am currently an Associate Professor and Ph.D. supervisor at the School of Fina
 
 
 <br>
-***
+* * *
 ### 学术任职(Academic Appointments)
 
 - Dec 2021 至今:       **副教授，博士生导师**
@@ -34,7 +33,7 @@ I am currently an Associate Professor and Ph.D. supervisor at the School of Fina
 
 
 <br>
-***
+* * *
 ### 教育背景(Education)
 
 - Sep 2005 - Jun 2009 **西南财经大学,法学学士**
@@ -44,7 +43,7 @@ I am currently an Associate Professor and Ph.D. supervisor at the School of Fina
 
 
 <br>
-***
+* * *
 ### 研究方向(Research Interests)
 
 - 地方政府债务(Local Government Debt)
@@ -57,7 +56,7 @@ I am currently an Associate Professor and Ph.D. supervisor at the School of Fina
 <br>
 
 
-***
+* * *
 ### News and Updates
 
 - **May 2023：**Happy to be awarded the XiamenAir Scholarship.
