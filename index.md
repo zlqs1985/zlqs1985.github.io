@@ -10,16 +10,18 @@ layout: page
 <br>
 欢迎访问 **张路 ([Zhang Lu](https://caihanlin.com/file/蔡汉霖简历.pdf))的学术主页**.
 
-我目前是首都经济贸易大学金融学院的副教授，博士生导师。近年来，我主要关注中国地方政府债务(Chinese Local Government Debt)的相关问题,例如：债务产生的
+<div style="text-align: justify">
+	我目前是首都经济贸易大学金融学院的副教授，博士生导师。近年来，我主要关注中国地方政府债务(Chinese Local Government Debt)的相关问题,例如：债务产生的
 制度背景，地方政府对融资平台(LGFVs)的显性支持和隐性担保，政府对地方债务治理的政策效果评估，地方债务的经济金融影响等。未来，我还希望与合作者一道，基于
 数量宏观模型(Quantitative Macroeconomic Model)和微观计量方法(Microeconometrics)，对有关中国经济的重大问题进行深入的研究。此外，我还对家庭金融，气候金融，房地产经济学和应用微观等领域保持着持续的研究兴趣。迄今为止，我已经以独立作者或第一作者身份，在包括《中国工业经济》、《财经研究》等国内外顶级刊物发表论文多
 篇，并承担一项国家自然科学基金青年项目
 
 
 <br>
-I am currently an Associate Professor and Ph.D. supervisor at the School of Finance, Capital University of Economics and Business. In recent years, my research has been primarily focused on various aspects of Chinese Local Government Debt, including the institutional background of debt generation, explicit support and implicit guarantees provided by local governments to financing platforms (LGFVs), policy effectiveness evaluations in local debt governance, and the economic and financial impacts of local government debt.Looking ahead, I aspire to collaborate with fellow researchers to conduct in-depth studies on significant economic issues in China, utilizing various of the quantitative macroeconomic models and microeconometric methods. Additionally, I maintain a keen interest in research areas such as household finance, real estate economics, and applied microeconomics.
+<div style="text-align: justify">
+I am currently an Associate Professor and Ph.D. supervisor at the School of Finance, Capital University of Economics and Business. In recent years, my research has been primarily focused on various aspects of Chinese Local Government Debt I aspire to collaborate with fellow researchers to conduct in-depth studies on significant economic issues in China, utilizing various of the quantitative macroeconomic models and microeconometric methods. Additionally, I maintain a keen interest in research areas such as household finance, real estate economics, and applied microeconomics.To date, I have published several papers as an independent or first author in top domestic and international journals, including "China Industrial Economics" and "Economic Research Journal," among others. Furthermore, I also served as PI of a National Natural Science Foundation of China (NSFC) Youth Project.
+</div>
 
-To date, I have published several papers as an independent or first author in top domestic and international journals, including "China Industrial Economics" and "Economic Research Journal," among others. Furthermore, I have undertaken a National Natural Science Foundation of China (NSFC) Youth Project as a research project.
 
 
 
@@ -38,18 +40,18 @@ To date, I have published several papers as an independent or first author in to
 - Sep 2005 - Jun 2009 **西南财经大学,法学学士**
 - Sep 2010 - Jun 2013 **西南财经大学，金融学硕士**
 - Sep 2013 - Jun 2017 **南开大学，经济学博士**
-- Sep 2014 - Sep 2015 **新加坡国立大学房地产研究院(NUS,IRES),访问博士生**
+- Sep 2014 - Sep 2015 **新加坡国立大学(NUS,IRES),访问博士生**
 
 
 <br>
 ---
 ### 研究方向(Research Interests)
 
-- 地方政府债务(Local/Municipal Government Debt)
+- 地方政府债务(Local Government Debt)
 - 家庭金融(Household Finance)
-- 绿色金融与气候变化的经济学分析(Green Finance and Economics of Climate Change)
+- 气候变化经济学(Economics of Climate Change)
 - 房地产和土地经济学(Real Estate and Land Economics)
-- 计算宏观经济学(Computational Macroeconomics)
+- 计算宏观经济学(Quantitative Macroeconomics)
 - 应用微观计量(Applied Microeconometrics)
 
 <br>
